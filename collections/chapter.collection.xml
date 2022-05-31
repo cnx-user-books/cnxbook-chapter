@@ -1,0 +1,3 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10763</md:content-id>  <md:title>Chapter</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>f3033396-6253-4406-8f43-2fc9c37e778f</md:uuid>
+<md:slug>chapter</md:slug>
+</metadata>  <col:content>          <col:module document="m28314"/>                            <col:module document="m28322"/>                    </col:content></col:collection>
